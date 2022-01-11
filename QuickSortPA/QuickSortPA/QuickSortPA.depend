@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641934098 source:c:\users\hidea\onedrive\Área de trabalho\gili\faculdade\estrutura de dados em c\estruturadedados1\ordenação\quicksortpa\quicksortpa\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
